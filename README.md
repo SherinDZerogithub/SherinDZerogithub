@@ -21,72 +21,65 @@
 
 <p align="center" class="tech-stack">
   <!-- Frontend -->
-    <span class="tech-icon">
-    <img src="assets/html.png" alt="HTML5" title="HTML5" />
-  </span>
-  <span class="tech-icon">
-    <img src="assets/css.png" alt="CSS3" title="CSS3" />
-  </span>
-  <span class="tech-icon">
-    <img src="assets/javascript.png" alt="JavaScript" title="JavaScript" />
-  </span>
-  <img src="assets/react.png" alt="React" title="React" width="50" height="50" style="margin: 5px;"/>
-  <img src="assets/nextjs.png" alt="Next.js" title="Next.js" width="50" height="50" style="margin: 5px;"/>
-  <img src="assets/tailwind-css.png" alt="Tailwind CSS" title="Tailwind CSS" width="50" height="50" style="margin: 5px;"/>
+  <span class="tech-icon"><img src="assets/html.png" alt="HTML5" title="HTML5" /></span>
+  <span class="tech-icon"><img src="assets/css.png" alt="CSS3" title="CSS3" /></span>
+  <span class="tech-icon"><img src="assets/javascript.png" alt="JavaScript" title="JavaScript" /></span>
+  <span class="tech-icon"><img src="assets/react.png" alt="React" title="React" /></span>
+  <span class="tech-icon"><img src="assets/nextjs.png" alt="Next.js" title="Next.js" /></span>
+  <span class="tech-icon"><img src="assets/tailwind-css.png" alt="Tailwind CSS" title="Tailwind CSS" /></span>
   
   <!-- Backend -->
-  <img src="assets/node.png" alt="Node.js" title="Node.js" width="50" height="50" style="margin: 5px;"/>
-  <img src="assets/express.png" alt="Express.js" title="Express.js" width="50" height="50" style="margin: 5px;"/>
-  <img src="assets/Appwrite.png" alt="AppWrite" title="AppWrite" width="50" height="50" style="margin: 5px;"/>
+  <span class="tech-icon"><img src="assets/node.png" alt="Node.js" title="Node.js" /></span>
+  <span class="tech-icon"><img src="assets/express.png" alt="Express.js" title="Express.js" /></span>
+  <span class="tech-icon"><img src="assets/Appwrite.png" alt="AppWrite" title="AppWrite" /></span>
   
   <!-- Databases -->
-  <img src="assets/mongodb.png" alt="MongoDB" title="MongoDB" width="50" height="50" style="margin: 5px;"/>
-  <img src="assets/MySQL.png" alt="MySQL" title="MySQL" width="50" height="50" style="margin: 5px;"/>
-  <img src="assets/derby.png" alt="Derby Database" title="Derby Database" width="50" height="50" style="margin: 5px;"/>
+  <span class="tech-icon"><img src="assets/mongodb.png" alt="MongoDB" title="MongoDB" /></span>
+  <span class="tech-icon"><img src="assets/MySQL.png" alt="MySQL" title="MySQL" /></span>
+  <span class="tech-icon"><img src="assets/derby.png" alt="Derby Database" title="Derby Database" /></span>
   
   <!-- Languages -->
-  <img src="assets/java.png" alt="Java" title="Java" width="50" height="50" style="margin: 5px;"/>
-  <img src="assets/Python.png" alt="Python" title="Python" width="50" height="50" style="margin: 5px;"/>
-  <img src="assets/php.png" alt="PHP" title="PHP" width="50" height="50" style="margin: 5px;"/>
+  <span class="tech-icon"><img src="assets/java.png" alt="Java" title="Java" /></span>
+  <span class="tech-icon"><img src="assets/Python.png" alt="Python" title="Python" /></span>
+  <span class="tech-icon"><img src="assets/php.png" alt="PHP" title="PHP" /></span>
   
   <!-- Design Tools -->
-  <img src="assets/figma.png" alt="Figma" title="Figma" width="50" height="50" style="margin: 5px;"/>
-  <img src="assets/canva.png" alt="Canva" title="Canva" width="50" height="50" style="margin: 5px;"/>
+  <span class="tech-icon"><img src="assets/figma.png" alt="Figma" title="Figma" /></span>
+  <span class="tech-icon"><img src="assets/canva.png" alt="Canva" title="Canva" /></span>
 </p>
 
----
 <style>
   .tech-stack {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 15px; /* spacing between icons */
-}
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+  }
 
-.tech-icon {
-  width: 70px; /* size of the circle */
-  height: 70px;
-  border-radius: 50%; /* makes it a circle */
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: #1a1a2e; /* dark background */
-  box-shadow: 0 0 10px #764BA2, 0 0 20px #764BA2, 0 0 30px #764BA2; /* glow effect */
-  transition: transform 0.3s, box-shadow 0.3s;
-}
+  .tech-icon {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1a1a2e;
+    box-shadow: 0 0 10px #764BA2, 0 0 20px #764BA2, 0 0 30px #764BA2;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
 
-.tech-icon img {
-  width: 50%;
-  height: 50%;
-  object-fit: contain;
-}
+  .tech-icon img {
+    width: 50%;
+    height: 50%;
+    object-fit: contain;
+  }
 
-.tech-icon:hover {
-  transform: scale(1.1);
-  box-shadow: 0 0 20px #764BA2, 0 0 40px #764BA2, 0 0 60px #764BA2; /* stronger glow on hover */
-}
-
+  .tech-icon:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 20px #764BA2, 0 0 40px #764BA2, 0 0 60px #764BA2;
+  }
 </style>
+
 
 ## 🌟 **Featured Projects**
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">

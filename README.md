@@ -106,10 +106,10 @@
   </div>
 
   <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 20px; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
-    <h3>📚 LMS Frontend</h3>
-    <p>Responsive Learning Management System with course browsing & dashboards.</p>
-    <p><strong>Tech:</strong> React, TypeScript, Tailwind CSS</p>
-    <a href="https://github.com/SherinDZerogithub/LMS">
+    <h3>📚 Laravel Task Manager Application</h3>
+    <p>A full-featured task management system with role-based access and a professional admin dashboard.</p>
+    <p><strong>Tech:</strong> Laravel (PHP), MySQL, AdminLTE, Tailwind CSS</p>
+    <a href="https://github.com/SherinDZerogithub/tasks-manager">
       <img src="https://img.shields.io/badge/View_Project-764BA2?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
     </a>
   </div>

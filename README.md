@@ -26,68 +26,60 @@
 ## 🚀 Tech Stack
 
 ### **Frontend**
-<p align="center">
-  <img src="assets/html.png" alt="HTML" width="50" height="50" />
-  <img src="assets/css.png" alt="CSS" width="50" height="50" />
-  <img src="assets/javascript.png" alt="JavaScript" width="50" height="50" />
-  <img src="assets/react.png" alt="React" width="50" height="50" />
-  <img src="assets/nextjs.png" alt="Next.js" width="50" height="50" />
-  <img src="assets/tailwind-css.png" alt="Tailwind CSS" width="50" height="50" />
-</p>
-
-## 🚀 Tech Stack
-
-### **Frontend**
 <div align="center">
-  <img src="assets/html.png" alt="HTML" class="uniform-icon" title="HTML5" />
-  <img src="assets/css.png" alt="CSS" class="uniform-icon" title="CSS3" />
-  <img src="assets/javascript.png" alt="JavaScript" class="uniform-icon" title="JavaScript" />
-  <img src="assets/react.png" alt="React" class="uniform-icon" title="React" />
-  <img src="assets/nextjs.png" alt="Next.js" class="uniform-icon" title="Next.js" />
-  <img src="assets/tailwind-css.png" alt="Tailwind CSS" class="uniform-icon" title="Tailwind CSS" />
+  <img src="assets/html.png" alt="HTML" class="tech-icon-minimal" title="HTML5" />
+  <img src="assets/css.png" alt="CSS" class="tech-icon-minimal" title="CSS3" />
+  <img src="assets/javascript.png" alt="JavaScript" class="tech-icon-minimal" title="JavaScript" />
+  <img src="assets/react.png" alt="React" class="tech-icon-minimal" title="React" />
+  <img src="assets/nextjs.png" alt="Next.js" class="tech-icon-minimal" title="Next.js" />
+  <img src="assets/tailwind-css.png" alt="Tailwind CSS" class="tech-icon-minimal" title="Tailwind CSS" />
 </div>
 
 ### **Backend**
 <div align="center">
-  <img src="assets/node.png" alt="Node.js" class="uniform-icon" title="Node.js" />
-  <img src="assets/express.png" alt="Express.js" class="uniform-icon" title="Express.js" />
-  <img src="assets/Appwrite.png" alt="AppWrite" class="uniform-icon" title="AppWrite" />
+  <img src="assets/node.png" alt="Node.js" class="tech-icon-minimal" title="Node.js" />
+  <img src="assets/express.png" alt="Express.js" class="tech-icon-minimal" title="Express.js" />
+  <img src="assets/appwrite.png" alt="AppWrite" class="tech-icon-minimal" title="AppWrite" />
 </div>
 
 ### **Database**
 <div align="center">
-  <img src="assets/mongodb.png" alt="MongoDB" class="uniform-icon" title="MongoDB" />
-  <img src="assets/MySQL.png" alt="MySQL" class="uniform-icon" title="MySQL" />
-  <img src="assets/derby.png" alt="Derby DB" class="uniform-icon" title="Derby DB" />
+  <img src="assets/mongodb.png" alt="MongoDB" class="tech-icon-minimal" title="MongoDB" />
+  <img src="assets/MySQL.png" alt="MySQL" class="tech-icon-minimal" title="MySQL" />
+  <img src="assets/derby.png" alt="Derby DB" class="tech-icon-minimal" title="Derby DB" />
 </div>
 
 ### **Languages**
 <div align="center">
-  <img src="assets/java.png" alt="Java" class="uniform-icon" title="Java" />
-  <img src="assets/Python.png" alt="Python" class="uniform-icon" title="Python" />
-  <img src="assets/php.png" alt="PHP" class="uniform-icon" title="PHP" />
+  <img src="assets/java.png" alt="Java" class="tech-icon-minimal" title="Java" />
+  <img src="assets/Python.png" alt="Python" class="tech-icon-minimal" title="Python" />
+  <img src="assets/php.png" alt="PHP" class="tech-icon-minimal" title="PHP" />
 </div>
 
 <style>
-  .uniform-icon {
-    width: 50px;
-    height: 50px;
-    margin: 8px;
-    padding: 10px;
+  .tech-icon-minimal {
+    width: 10px;
+    height: 10px;
+    margin: 10px;
     border-radius: 50%;
+    padding: 8px;
     background: #f8f9fa;
     object-fit: contain;
-    transition: all 0.3s ease;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     cursor: pointer;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    border: 2px solid #e9ecef;
+    border: 2px solid transparent;
   }
   
-  .uniform-icon:hover {
-    transform: translateY(-5px) scale(1.1);
-    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+  .tech-icon-minimal:hover {
+    transform: scale(0.15);
     border-color: #6366f1;
-    background: #ffffff;
+    animation: pulse 1.5s infinite;
+  }
+  
+  @keyframes pulse {
+    0% { box-shadow: 0 0 0 0 rgba(99, 102, 241, 0.4); }
+    70% { box-shadow: 0 0 0 10px rgba(99, 102, 241, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(99, 102, 241, 0); }
   }
 </style>
 

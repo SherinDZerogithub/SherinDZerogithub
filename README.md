@@ -17,63 +17,140 @@
     </a>
   </p>
 </div>
-<section class="tech-section">
-  <h2>🛠️ Tech Stack</h2>
+## 🚀 Tech Stack
 
-  <div class="tech-stack">
-    <!-- Frontend -->
-    <img src="assets/html.png" alt="HTML5" title="HTML5" class="tech-icon" />
-    <img src="assets/css.png" alt="CSS3" title="CSS3" class="tech-icon" />
-    <img src="assets/javascript.png" alt="JavaScript" title="JavaScript" class="tech-icon" width="60" height="60"/>
-    <img src="assets/react.png" alt="React" title="React" class="tech-icon" />
-    <img src="assets/nextjs.png" alt="Next.js" title="Next.js" class="tech-icon" />
-    <img src="assets/tailwind-css.png" alt="Tailwind CSS" title="Tailwind CSS" class="tech-icon" />
-    <img src="assets/node.png" alt="Node.js" title="Node.js" class="tech-icon" />
-    <img src="assets/express.png" alt="Express.js" title="Express.js" class="tech-icon" />
-    <img src="assets/Appwrite.png" alt="AppWrite" title="AppWrite" class="tech-icon" />
-    <img src="assets/mongodb.png" alt="MongoDB" title="MongoDB" class="tech-icon" />
-    <img src="assets/MySQL.png" alt="MySQL" title="MySQL" class="tech-icon" />
-    <img src="assets/derby.png" alt="Derby" title="Derby Database" class="tech-icon" />
-    <img src="assets/java.png" alt="Java" title="Java" class="tech-icon" />
-    <img src="assets/Python.png" alt="Python" title="Python" class="tech-icon" />
-    <img src="assets/php.png" alt="PHP" title="PHP" class="tech-icon" />
-    <img src="assets/figma.png" alt="Figma" title="Figma" class="tech-icon" />
-    <img src="assets/canva.png" alt="Canva" title="Canva" class="tech-icon" />
-  </div>
-</section>
+### **Frontend**
+<div align="center">
+  <!-- HTML -->
+  <a href="#" title="HTML5">
+    <img src="assets/html.png" alt="HTML" class="tech-icon" />
+  </a>
+  <!-- CSS -->
+  <a href="#" title="CSS3">
+    <img src="assets/css.png" alt="CSS" class="tech-icon" />
+  </a>
+  <!-- JavaScript -->
+  <a href="#" title="JavaScript">
+    <img src="assets/javascript.png" alt="JavaScript" class="tech-icon" width="60" height="60" />
+  </a>
+  <!-- React -->
+  <a href="#" title="React">
+    <img src="assets/react.png" alt="React" class="tech-icon" />
+  </a>
+  <!-- Next.js -->
+  <a href="#" title="Next.js">
+    <img src="assets/nextjs.png" alt="Next.js" class="tech-icon" width="60" height="60" />
+  </a>
+  <!-- Tailwind CSS -->
+  <a href="#" title="Tailwind CSS">
+    <img src="assets/tailwind-css.png" alt="Tailwind CSS" class="tech-icon" width="60" height="60" />
+  </a>
+</div>
 
+### **Backend**
+<div align="center">
+  <!-- Node.js -->
+  <a href="#" title="Node.js">
+    <img src="assets/node.png" alt="Node.js" class="tech-icon" />
+  </a>
+  <!-- Express.js -->
+  <a href="#" title="Express.js">
+    <img src="assets/express.png" alt="Express.js" class="tech-icon" />
+  </a>
+  <!-- AppWrite -->
+  <a href="#" title="AppWrite">
+    <img src="assets/appwrite.png" alt="AppWrite" class="tech-icon" width="60" height="60" />
+  </a>
+</div>
+
+### **Database**
+<div align="center">
+  <!-- MongoDB -->
+  <a href="#" title="MongoDB">
+    <img src="assets/mongodb.png" alt="MongoDB" class="tech-icon" width="60" height="60" />
+  </a>
+  <!-- MySQL -->
+  <a href="#" title="MySQL">
+    <img src="assets/MySQL.png" alt="MySQL" class="tech-icon" />
+  </a>
+  <!-- Derby DB -->
+  <a href="#" title="Derby DB">
+    <img src="assets/derby.png" alt="Derby DB" class="tech-icon" width="60" height="60" />
+  </a>
+</div>
+
+### **Languages**
+<div align="center">
+  <!-- Java -->
+  <a href="#" title="Java">
+    <img src="assets/java.png" alt="Java" class="tech-icon" />
+  </a>
+  <!-- Python -->
+  <a href="#" title="Python">
+    <img src="assets/Python.png" alt="Python" class="tech-icon" width="60" height="60" />
+  </a>
+  <!-- PHP -->
+  <a href="#" title="PHP">
+    <img src="assets/php.png" alt="PHP" class="tech-icon" width="60" height="60" />
+  </a>
+</div>
+
+### **Design**
+<div align="center">
+  <!-- Java -->
+  <a href="#" title="Java">
+    <img src="assets/canva.png" alt="Java" class="tech-icon" width="60" height="60"  />
+  </a>
+  <!-- Python -->
+  <a href="#" title="Python">
+    <img src="assets/figma.png" alt="Python" class="tech-icon" />
+  </a>
+  <!-- PHP -->
+ 
+</div>
 <style>
-  .tech-section {
-  text-align: center;
-}
-
-.tech-stack {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 18px;
-  margin-top: 20px;
-}
-
-.tech-icon {
-  width: 70px;
-  height: 70px;
-  padding: 15px;
-  border-radius: 50%;
-  background: #1a1a2e;
-  box-shadow: 0 0 12px rgba(118, 75, 162, 0.6);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  object-fit: contain;
-}
-
-.tech-icon:hover {
-  transform: scale(1.12);
-  box-shadow: 0 0 20px rgba(118, 75, 162, 0.9),
-              0 0 40px rgba(118, 75, 162, 0.7);
-}
-
+  .tech-icon {
+    width: 60px;
+    height: 60px;
+    margin: 8px;
+    padding: 10px;
+    border-radius: 50%;
+    background: linear-gradient(145deg, #f0f0f0, #ffffff);
+    box-shadow: 5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;
+    object-fit: contain;
+    transition: all 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .tech-icon:hover {
+    transform: translateY(-5px) scale(1.1);
+    box-shadow: 8px 8px 20px #c9c9c9, -8px -8px 20px #ffffff;
+    background: linear-gradient(145deg, #e6e6e6, #ffffff);
+  }
+  
+  /* Glow effect on hover */
+  .tech-icon:hover:nth-child(1) { filter: drop-shadow(0 0 8px #e34c26); } /* HTML */
+  .tech-icon:hover:nth-child(2) { filter: drop-shadow(0 0 8px #264de4); } /* CSS */
+  .tech-icon:hover:nth-child(3) { filter: drop-shadow(0 0 8px #f0db4f); } /* JS */
+  .tech-icon:hover:nth-child(4) { filter: drop-shadow(0 0 8px #61dafb); } /* React */
+  .tech-icon:hover:nth-child(5) { filter: drop-shadow(0 0 8px #000000); } /* Next.js */
+  .tech-icon:hover:nth-child(6) { filter: drop-shadow(0 0 8px #38b2ac); } /* Tailwind */
+  
+  /* Backend icons */
+  .tech-icon:hover:nth-child(7) { filter: drop-shadow(0 0 8px #68a063); } /* Node.js */
+  .tech-icon:hover:nth-child(8) { filter: drop-shadow(0 0 8px #000000); } /* Express */
+  .tech-icon:hover:nth-child(9) { filter: drop-shadow(0 0 8px #fd366e); } /* AppWrite */
+  
+  /* Database icons */
+  .tech-icon:hover:nth-child(10) { filter: drop-shadow(0 0 8px #47a248); } /* MongoDB */
+  .tech-icon:hover:nth-child(11) { filter: drop-shadow(0 0 8px #00758f); } /* MySQL */
+  .tech-icon:hover:nth-child(12) { filter: drop-shadow(0 0 8px #f29111); } /* Derby DB */
+  
+  /* Language icons */
+  .tech-icon:hover:nth-child(13) { filter: drop-shadow(0 0 8px #007396); } /* Java */
+  .tech-icon:hover:nth-child(14) { filter: drop-shadow(0 0 8px #3776ab); } /* Python */
+  .tech-icon:hover:nth-child(15) { filter: drop-shadow(0 0 8px #777bb4); } /* PHP */
 </style>
-
 
 ## 🌟 **Featured Projects**
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">

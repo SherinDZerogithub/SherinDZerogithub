@@ -36,77 +36,59 @@
 </p>
 
 ## 🚀 Tech Stack
+
 ### **Frontend**
-<div class="tech-container">
-  <div class="tech-item"><img src="assets/html.png" alt="HTML" title="HTML5" /></div>
-  <div class="tech-item"><img src="assets/css.png" alt="CSS" title="CSS3" /></div>
-  <div class="tech-item"><img src="assets/javascript.png" alt="JavaScript" title="JavaScript" /></div>
-  <div class="tech-item"><img src="assets/react.png" alt="React" title="React" /></div>
-  <div class="tech-item"><img src="assets/nextjs.png" alt="Next.js" title="Next.js" /></div>
-  <div class="tech-item"><img src="assets/tailwind-css.png" alt="Tailwind CSS" title="Tailwind CSS" /></div>
+<div align="center">
+  <img src="assets/html.png" alt="HTML" class="uniform-icon" title="HTML5" />
+  <img src="assets/css.png" alt="CSS" class="uniform-icon" title="CSS3" />
+  <img src="assets/javascript.png" alt="JavaScript" class="uniform-icon" title="JavaScript" />
+  <img src="assets/react.png" alt="React" class="uniform-icon" title="React" />
+  <img src="assets/nextjs.png" alt="Next.js" class="uniform-icon" title="Next.js" />
+  <img src="assets/tailwind-css.png" alt="Tailwind CSS" class="uniform-icon" title="Tailwind CSS" />
 </div>
 
 ### **Backend**
-<div class="tech-container">
-  <div class="tech-item"><img src="assets/node.png" alt="Node.js" title="Node.js" /></div>
-  <div class="tech-item"><img src="assets/express.png" alt="Express.js" title="Express.js" /></div>
-  <div class="tech-item"><img src="assets/appwrite.png" alt="AppWrite" title="AppWrite" /></div>
+<div align="center">
+  <img src="assets/node.png" alt="Node.js" class="uniform-icon" title="Node.js" />
+  <img src="assets/express.png" alt="Express.js" class="uniform-icon" title="Express.js" />
+  <img src="assets/Appwrite.png" alt="AppWrite" class="uniform-icon" title="AppWrite" />
 </div>
 
 ### **Database**
-<div class="tech-container">
-  <div class="tech-item"><img src="assets/mongodb.png" alt="MongoDB" title="MongoDB" /></div>
-  <div class="tech-item"><img src="assets/MySQL.png" alt="MySQL" title="MySQL" /></div>
-  <div class="tech-item"><img src="assets/derby.png" alt="Derby DB" title="Derby DB" /></div>
+<div align="center">
+  <img src="assets/mongodb.png" alt="MongoDB" class="uniform-icon" title="MongoDB" />
+  <img src="assets/MySQL.png" alt="MySQL" class="uniform-icon" title="MySQL" />
+  <img src="assets/derby.png" alt="Derby DB" class="uniform-icon" title="Derby DB" />
 </div>
 
 ### **Languages**
-<div class="tech-container">
-  <div class="tech-item"><img src="assets/java.png" alt="Java" title="Java" /></div>
-  <div class="tech-item"><img src="assets/Python.png" alt="Python" title="Python" /></div>
-  <div class="tech-item"><img src="assets/php.png" alt="PHP" title="PHP" /></div>
+<div align="center">
+  <img src="assets/java.png" alt="Java" class="uniform-icon" title="Java" />
+  <img src="assets/Python.png" alt="Python" class="uniform-icon" title="Python" />
+  <img src="assets/php.png" alt="PHP" class="uniform-icon" title="PHP" />
 </div>
 
 <style>
-.tech-container {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 15px;
-  margin: 20px 0;
-}
-
-.tech-item {
-  width: 70px;
-  height: 70px;
-  border-radius: 50%;
-  background: #f8f9fa;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-  cursor: pointer;
-  border: 2px solid transparent;
-}
-
-.tech-item img {
-  max-width: 50%;
-  max-height: 50%;
-  border-radius: 50%;
-  object-fit: contain;
-}
-
-.tech-item:hover {
-  transform: scale(1.15);
-  border-color: #6366f1;
-  animation: pulse 1.5s infinite;
-}
-
-@keyframes pulse {
-  0% { box-shadow: 0 0 0 0 rgba(99, 102, 241, 0.4); }
-  70% { box-shadow: 0 0 0 10px rgba(99, 102, 241, 0); }
-  100% { box-shadow: 0 0 0 0 rgba(99, 102, 241, 0); }
-}
+  .uniform-icon {
+    width: 50px;
+    height: 50px;
+    margin: 8px;
+    padding: 10px;
+    border-radius: 50%;
+    background: #f8f9fa;
+    object-fit: contain;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border: 2px solid #e9ecef;
+  }
+  
+  .uniform-icon:hover {
+    transform: translateY(-5px) scale(1.1);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+    border-color: #6366f1;
+    background: #ffffff;
+  }
 </style>
 
 ## 🌟 **Featured Projects**

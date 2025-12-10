@@ -117,7 +117,7 @@
   <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 20px; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
     <h3>🎬 Movie Recommendation</h3>
     <p>Mobile app for discovering movies built with React Native.</p>
-    <p><strong>Tech:</strong> React Native, Appwrite</p>
+    <p><strong>Tech:</strong> React Native, Appwrite, TMDB API</p>
     <a href="https://github.com/SherinDZerogithub/Movie-Recommendation">
       <img src="https://img.shields.io/badge/View_Project-764BA2?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
     </a>

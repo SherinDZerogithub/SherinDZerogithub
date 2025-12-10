@@ -23,147 +23,152 @@
 
 ---
 
+
 ## 🚀 **My Tech Arsenal**
 
-<!-- Frontend -->
-### **✨ Frontend Development**
+<div align="center">
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap; overflow-x: auto; padding: 20px;">
+### **✨ Full Stack Skills**
+<!-- Single horizontal row with all skills -->
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap; overflow-x: auto; padding: 15px 0; gap: 12px; width: 100%; white-space: nowrap;">
+
   <!-- HTML5 -->
-  <div style="text-align: center;">
-    <img src="assets/html.png" alt="HTML5" title="HTML5" width="85" height="85" style="border-radius: 20px; transition: all 0.4s ease; box-shadow: 0 8px 16px rgba(255, 87, 34, 0.3);" 
-         onmouseover="this.style.transform='translateY(-10px) scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(255, 87, 34, 0.5)'" 
-         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 16px rgba(255, 87, 34, 0.3)'" />
-    <p style="margin-top: 8px; font-weight: bold;">HTML5</p>
+  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
+    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(255,87,34,0.1) 0%, rgba(255,87,34,0.05) 100%);">
+      <img src="assets/html.png" alt="HTML5" title="HTML5" width="55" height="55" 
+           style="border-radius: 12px; transition: all 0.3s ease;" />
+    </div>
+    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">HTML5</p>
   </div>
 
   <!-- CSS3 -->
-  <div style="text-align: center;">
-    <img src="assets/css.png" alt="CSS3" title="CSS3" width="85" height="85" style="border-radius: 20px; transition: all 0.4s ease; box-shadow: 0 8px 16px rgba(33, 150, 243, 0.3);" 
-         onmouseover="this.style.transform='translateY(-10px) scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(33, 150, 243, 0.5)'" 
-         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 16px rgba(33, 150, 243, 0.3)'" />
-    <p style="margin-top: 8px; font-weight: bold;">CSS3</p>
+  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
+    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(33,150,243,0.1) 0%, rgba(33,150,243,0.05) 100%);">
+      <img src="assets/css.png" alt="CSS3" title="CSS3" width="55" height="55" 
+           style="border-radius: 12px; transition: all 0.3s ease;" />
+    </div>
+    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">CSS3</p>
   </div>
 
   <!-- JavaScript -->
-  <div style="text-align: center;">
-    <img src="assets/javascript.png" alt="JavaScript" title="JavaScript" width="85" height="85" style="border-radius: 20px; transition: all 0.4s ease; box-shadow: 0 8px 16px rgba(255, 193, 7, 0.3);" 
-         onmouseover="this.style.transform='translateY(-10px) scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(255, 193, 7, 0.5)'" 
-         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 16px rgba(255, 193, 7, 0.3)'" />
-    <p style="margin-top: 8px; font-weight: bold;">JavaScript</p>
+  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
+    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(255,193,7,0.1) 0%, rgba(255,193,7,0.05) 100%);">
+      <img src="assets/javascript.png" alt="JavaScript" title="JavaScript" width="55" height="55" 
+           style="border-radius: 12px; transition: all 0.3s ease;" />
+    </div>
+    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">JS</p>
   </div>
 
   <!-- React -->
-  <div style="text-align: center;">
-    <img src="assets/react.png" alt="React" title="React" width="85" height="85" style="border-radius: 20px; transition: all 0.4s ease; box-shadow: 0 8px 16px rgba(97, 218, 251, 0.3);" 
-         onmouseover="this.style.transform='translateY(-10px) scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(97, 218, 251, 0.5)'" 
-         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 16px rgba(97, 218, 251, 0.3)'" />
-    <p style="margin-top: 8px; font-weight: bold;">React</p>
+  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
+    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(97,218,251,0.1) 0%, rgba(97,218,251,0.05) 100%);">
+      <img src="assets/react.png" alt="React" title="React" width="55" height="55" 
+           style="border-radius: 12px; transition: all 0.3s ease;" />
+    </div>
+    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">React</p>
   </div>
 
   <!-- Next.js -->
-  <div style="text-align: center;">
-    <img src="assets/nextjs.png" alt="Next.js" title="Next.js" width="85" height="85" style="border-radius: 20px; transition: all 0.4s ease; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);" 
-         onmouseover="this.style.transform='translateY(-10px) scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(0, 0, 0, 0.5)'" 
-         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 16px rgba(0, 0, 0, 0.3)'" />
-    <p style="margin-top: 8px; font-weight: bold;">Next.js</p>
+  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
+    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.05) 100%);">
+      <img src="assets/nextjs.png" alt="Next.js" title="Next.js" width="55" height="55" 
+           style="border-radius: 12px; transition: all 0.3s ease;" />
+    </div>
+    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">Next.js</p>
   </div>
 
-  <!-- Tailwind CSS -->
-  <div style="text-align: center;">
-    <img src="assets/tailwind-css.png" alt="Tailwind CSS" title="Tailwind CSS" width="85" height="85" style="border-radius: 20px; transition: all 0.4s ease; box-shadow: 0 8px 16px rgba(6, 182, 212, 0.3);" 
-         onmouseover="this.style.transform='translateY(-10px) scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(6, 182, 212, 0.5)'" 
-         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 16px rgba(6, 182, 212, 0.3)'" />
-    <p style="margin-top: 8px; font-weight: bold;">Tailwind</p>
+  <!-- Tailwind -->
+  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
+    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(6,182,212,0.1) 0%, rgba(6,182,212,0.05) 100%);">
+      <img src="assets/tailwind-css.png" alt="Tailwind CSS" title="Tailwind CSS" width="55" height="55" 
+           style="border-radius: 12px; transition: all 0.3s ease;" />
+    </div>
+    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">Tailwind</p>
   </div>
+
+  <!-- Node.js -->
+  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
+    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(51,153,51,0.1) 0%, rgba(51,153,51,0.05) 100%);">
+      <img src="assets/node.png" alt="Node.js" title="Node.js" width="55" height="55" 
+           style="border-radius: 12px; transition: all 0.3s ease;" />
+    </div>
+    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">Node.js</p>
+  </div>
+
+  <!-- Express -->
+  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
+    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.05) 100%);">
+      <img src="assets/express.png" alt="Express.js" title="Express.js" width="55" height="55" 
+           style="border-radius: 12px; transition: all 0.3s ease;" />
+    </div>
+    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">Express</p>
+  </div>
+
+  <!-- MongoDB -->
+  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
+    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(71,162,72,0.1) 0%, rgba(71,162,72,0.05) 100%);">
+      <img src="assets/mongodb.png" alt="MongoDB" title="MongoDB" width="55" height="55" 
+           style="border-radius: 12px; transition: all 0.3s ease;" />
+    </div>
+    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">MongoDB</p>
+  </div>
+
+  <!-- MySQL -->
+  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
+    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(68,121,161,0.1) 0%, rgba(68,121,161,0.05) 100%);">
+      <img src="assets/MySQL.png" alt="MySQL" title="MySQL" width="55" height="55" 
+           style="border-radius: 12px; transition: all 0.3s ease;" />
+    </div>
+    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">MySQL</p>
+  </div>
+
+  <!-- AppWrite -->
+  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
+    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(240,46,101,0.1) 0%, rgba(240,46,101,0.05) 100%);">
+      <img src="assets/Appwrite.png" alt="AppWrite" title="AppWrite" width="55" height="55" 
+           style="border-radius: 12px; transition: all 0.3s ease;" />
+    </div>
+    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">AppWrite</p>
+  </div>
+
+  <!-- Figma -->
+  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
+    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(242,78,30,0.1) 0%, rgba(242,78,30,0.05) 100%);">
+      <img src="assets/figma.png" alt="Figma" title="Figma" width="55" height="55" 
+           style="border-radius: 12px; transition: all 0.3s ease;" />
+    </div>
+    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">Figma</p>
+  </div>
+
+  <!-- Java -->
+  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
+    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(0,115,150,0.1) 0%, rgba(0,115,150,0.05) 100%);">
+      <img src="assets/java.png" alt="Java" title="Java" width="55" height="55" 
+           style="border-radius: 12px; transition: all 0.3s ease;" />
+    </div>
+    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">Java</p>
+  </div>
+
+  <!-- Python -->
+  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
+    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(55,118,171,0.1) 0%, rgba(55,118,171,0.05) 100%);">
+      <img src="assets/Python.png" alt="Python" title="Python" width="55" height="55" 
+           style="border-radius: 12px; transition: all 0.3s ease;" />
+    </div>
+    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">Python</p>
+  </div>
+
+  <!-- PHP -->
+  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
+    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(119,123,179,0.1) 0%, rgba(119,123,179,0.05) 100%);">
+      <img src="assets/php.png" alt="PHP" title="PHP" width="55" height="55" 
+           style="border-radius: 12px; transition: all 0.3s ease;" />
+    </div>
+    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">PHP</p>
+  </div>
+
 </div>
 
-<!-- Backend & Databases -->
-### **⚙️ Backend & Databases**
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px; margin: 30px 0;">
-  <div style="text-align: center;">
-    <img src="assets/node.png" alt="Node.js" title="Node.js" width="85" height="85" style="border-radius: 20px; transition: all 0.4s ease; box-shadow: 0 8px 16px rgba(51, 153, 51, 0.3);" 
-         onmouseover="this.style.transform='translateY(-10px) scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(51, 153, 51, 0.5)'" 
-         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 16px rgba(51, 153, 51, 0.3)'" />
-    <p style="margin-top: 8px; font-weight: bold;">Node.js</p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="assets/express.png" alt="Express.js" title="Express.js" width="85" height="85" style="border-radius: 20px; transition: all 0.4s ease; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);" 
-         onmouseover="this.style.transform='translateY(-10px) scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(0, 0, 0, 0.5)'" 
-         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 16px rgba(0, 0, 0, 0.3)'" />
-    <p style="margin-top: 8px; font-weight: bold;">Express.js</p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="assets/mongodb.png" alt="MongoDB" title="MongoDB" width="85" height="85" style="border-radius: 20px; transition: all 0.4s ease; box-shadow: 0 8px 16px rgba(71, 162, 72, 0.3);" 
-         onmouseover="this.style.transform='translateY(-10px) scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(71, 162, 72, 0.5)'" 
-         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 16px rgba(71, 162, 72, 0.3)'" />
-    <p style="margin-top: 8px; font-weight: bold;">MongoDB</p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="assets/MySQL.png" alt="MySQL" title="MySQL" width="85" height="85" style="border-radius: 20px; transition: all 0.4s ease; box-shadow: 0 8px 16px rgba(68, 121, 161, 0.3);" 
-         onmouseover="this.style.transform='translateY(-10px) scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(68, 121, 161, 0.5)'" 
-         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 16px rgba(68, 121, 161, 0.3)'" />
-    <p style="margin-top: 8px; font-weight: bold;">MySQL</p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="assets/Appwrite.png" alt="AppWrite" title="AppWrite" width="85" height="85" style="border-radius: 20px; transition: all 0.4s ease; box-shadow: 0 8px 16px rgba(240, 46, 101, 0.3);" 
-         onmouseover="this.style.transform='translateY(-10px) scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(240, 46, 101, 0.5)'" 
-         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 16px rgba(240, 46, 101, 0.3)'" />
-    <p style="margin-top: 8px; font-weight: bold;">AppWrite</p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="assets/derby.png" alt="Derby Database" title="Derby Database" width="85" height="85" style="border-radius: 20px; transition: all 0.4s ease; box-shadow: 0 8px 16px rgba(132, 94, 194, 0.3);" 
-         onmouseover="this.style.transform='translateY(-10px) scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(132, 94, 194, 0.5)'" 
-         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 16px rgba(132, 94, 194, 0.3)'" />
-    <p style="margin-top: 8px; font-weight: bold;">Derby DB</p>
-  </div>
-</div>
-
-<!-- Design & Languages -->
-### **🎨 Design & Languages**
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px; margin: 30px 0;">
-  <div style="text-align: center;">
-    <img src="assets/figma.png" alt="Figma" title="Figma" width="85" height="85" style="border-radius: 20px; transition: all 0.4s ease; box-shadow: 0 8px 16px rgba(242, 78, 30, 0.3);" 
-         onmouseover="this.style.transform='translateY(-10px) scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(242, 78, 30, 0.5)'" 
-         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 16px rgba(242, 78, 30, 0.3)'" />
-    <p style="margin-top: 8px; font-weight: bold;">Figma</p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="assets/canva.png" alt="Canva" title="Canva" width="85" height="85" style="border-radius: 20px; transition: all 0.4s ease; box-shadow: 0 8px 16px rgba(0, 173, 239, 0.3);" 
-         onmouseover="this.style.transform='translateY(-10px) scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(0, 173, 239, 0.5)'" 
-         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 16px rgba(0, 173, 239, 0.3)'" />
-    <p style="margin-top: 8px; font-weight: bold;">Canva</p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="assets/java.png" alt="Java" title="Java" width="85" height="85" style="border-radius: 20px; transition: all 0.4s ease; box-shadow: 0 8px 16px rgba(0, 115, 150, 0.3);" 
-         onmouseover="this.style.transform='translateY(-10px) scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(0, 115, 150, 0.5)'" 
-         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 16px rgba(0, 115, 150, 0.3)'" />
-    <p style="margin-top: 8px; font-weight: bold;">Java</p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="assets/Python.png" alt="Python" title="Python" width="85" height="85" style="border-radius: 20px; transition: all 0.4s ease; box-shadow: 0 8px 16px rgba(55, 118, 171, 0.3);" 
-         onmouseover="this.style.transform='translateY(-10px) scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(55, 118, 171, 0.5)'" 
-         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 16px rgba(55, 118, 171, 0.3)'" />
-    <p style="margin-top: 8px; font-weight: bold;">Python</p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="assets/php.png" alt="PHP" title="PHP" width="85" height="85" style="border-radius: 20px; transition: all 0.4s ease; box-shadow: 0 8px 16px rgba(119, 123, 179, 0.3);" 
-         onmouseover="this.style.transform='translateY(-10px) scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(119, 123, 179, 0.5)'" 
-         onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 8px 16px rgba(119, 123, 179, 0.3)'" />
-    <p style="margin-top: 8px; font-weight: bold;">PHP</p>
-  </div>
-</div>
-
----
 
 ## 🌟 **Featured Projects**
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">

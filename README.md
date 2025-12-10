@@ -1,7 +1,12 @@
 <!-- Animated Header Banner -->
 <p align="center">
+  <b style="font-size: 22px;">Hi 👋, I'm Serini Puwakgolla</b>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=✨%20Serini%20Puwakgolla%20✨&fontSize=42&animation=fadeIn&fontAlignY=40" />
 </p>
+
 
 <!-- Short Intro & Contact -->
 <div align="center">

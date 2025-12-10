@@ -31,32 +31,7 @@ I also design digital assets and UI mockups using **Figma** and **Canva**.
 ### **Languages**
 - Java • Python • PHP  
 
----
 
-## 🌟 My Projects
-
-### 🔹 **E-Commerce App** _(On-going)_
-A full-featured e-commerce application with product browsing, carts, user accounts, admin panel, and secure checkout.
-
-**Tech Used:** Next.js, MongoDB, Cloudinary, Tailwind, Redux Toolkit  
-
-🔗 *Link will be added soon*
-
----
-
-### 🔹 **LMS Frontend Project**
-A responsive Learning Management System UI with authentication, dashboards & course browsing.
-
-**Tech Used:** React, TypeScript, Tailwind, Axios, Router, Clerk Auth  
-
----
-
-### 🔹 **Portfolio Website**
-A modern, animated portfolio built from scratch to showcase my skills and work.
-
-**Tech Used:** React, Vite, CSS Modules  
-
----
 
 ## 🛤️ My Journey
 - 🎨 UI Designer  

@@ -22,57 +22,24 @@
 </div>
 
 
+## 🛠️ Tech Stack
 
-## 🚀 Tech Stack
+### Frontend Development
+![HTML](assets/html.png) ![CSS](assets/css.png) ![JavaScript](assets/javascript.png) 
+![React](assets/react.png) ![Next.js](assets/nextjs.png) ![Tailwind CSS](assets/tailwind-css.png)
 
-### **Frontend**
-<div align="center">
-  <img src="assets/html.png" alt="HTML" class="tech-icon-minimal" title="HTML5" />
-  <img src="assets/css.png" alt="CSS" class="tech-icon-minimal" title="CSS3" />
-  <img src="assets/javascript.png" alt="JavaScript" class="tech-icon-minimal" title="JavaScript" />
-  <img src="assets/react.png" alt="React" class="tech-icon-minimal" title="React" />
-  <img src="assets/nextjs.png" alt="Next.js" class="tech-icon-minimal" title="Next.js" />
-  <img src="assets/tailwind-css.png" alt="Tailwind CSS" class="tech-icon-minimal" title="Tailwind CSS" />
-</div>
+### Backend & Databases
+![Node.js](assets/node.png) ![Express.js](assets/express.png) 
+![MongoDB](assets/mongodb.png) ![MySQL](assets/MySQL.png) ![AppWrite](assets/Appwrite.png)
+![Derby Database](assets/derby.png)
 
-### **Backend**
-<div align="center">
-  <img src="assets/node.png" alt="Node.js" class="tech-icon-minimal" title="Node.js" />
-  <img src="assets/express.png" alt="Express.js" class="tech-icon-minimal" title="Express.js" />
-  <img src="assets/appwrite.png" alt="AppWrite" class="tech-icon-minimal" title="AppWrite" />
-</div>
+### Programming Languages
+![Java](assets/java.png) ![Python](assets/Python.png) ![PHP](assets/php.png)
 
-### **Database**
-<div align="center">
-  <img src="assets/mongodb.png" alt="MongoDB" class="tech-icon-minimal" title="MongoDB" />
-  <img src="assets/MySQL.png" alt="MySQL" class="tech-icon-minimal" title="MySQL" />
-  <img src="assets/derby.png" alt="Derby DB" class="tech-icon-minimal" title="Derby DB" />
-</div>
+### Design Tools
+![Figma](assets/figma.png) ![Canva](assets/canva.png)
 
-### **Languages**
-<div align="center">
-  <img src="assets/java.png" alt="Java" class="tech-icon-minimal" title="Java" />
-  <img src="assets/Python.png" alt="Python" class="tech-icon-minimal" title="Python" />
-  <img src="assets/php.png" alt="PHP" class="tech-icon-minimal" title="PHP" />
-</div>
-
-<style>
-  .tech-icon-minimal {
-    width: 10px;
-    height: 10px;
-    margin: 10px;
-    border-radius: 50%;
-    padding: 8px;
-    background: #f8f9fa;
-    object-fit: contain;
-    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-    cursor: pointer;
-    border: 2px solid transparent;
-  }
-  
- 
-
-</style>
+---
 
 ## 🌟 **Featured Projects**
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">

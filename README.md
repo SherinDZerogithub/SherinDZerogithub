@@ -5,28 +5,31 @@
 
 <!-- Short Intro & Contact -->
 <div align="center">
-  <h3>🎓 Computer Science Undergraduate | 💻 Full-Stack Developer | 🎨 UI Designer</h3>
+  <h3> I am a 🎓 Computer Science Undergraduate | 💻 Full-Stack Developer | 🎨 UI Designer</h3>
   <p>Passionate about crafting beautiful, functional digital experiences with clean code and thoughtful design</p>
   
   <p>
     <a href="https://www.linkedin.com/in/serini-p-96463a24b">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000" alt="LinkedIn"/>
     </a>
-    <a href="mailto:SeriniPuwakgolla@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000" alt="Email"/>
-    </a>
     <a href="https://sherindzerogithub.github.io/PortFolioProject/">
       <img src="https://img.shields.io/badge/Portfolio-764BA2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000" alt="Portfolio"/>
     </a>
   </p>
 </div>
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-<p align="center">
+<p align="center" class="tech-stack">
   <!-- Frontend -->
-  <img src="assets/html.png" alt="HTML5" title="HTML5" width="50" height="50" style="margin: 5px;"/>
-  <img src="assets/css.png" alt="CSS3" title="CSS3" width="50" height="50" style="margin: 5px;"/>
-  <img src="assets/javascript.png" alt="JavaScript" title="JavaScript" width="50" height="50" style="margin: 5px;"/>
+    <span class="tech-icon">
+    <img src="assets/html.png" alt="HTML5" title="HTML5" />
+  </span>
+  <span class="tech-icon">
+    <img src="assets/css.png" alt="CSS3" title="CSS3" />
+  </span>
+  <span class="tech-icon">
+    <img src="assets/javascript.png" alt="JavaScript" title="JavaScript" />
+  </span>
   <img src="assets/react.png" alt="React" title="React" width="50" height="50" style="margin: 5px;"/>
   <img src="assets/nextjs.png" alt="Next.js" title="Next.js" width="50" height="50" style="margin: 5px;"/>
   <img src="assets/tailwind-css.png" alt="Tailwind CSS" title="Tailwind CSS" width="50" height="50" style="margin: 5px;"/>
@@ -52,6 +55,38 @@
 </p>
 
 ---
+<style>
+  .tech-stack {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 15px; /* spacing between icons */
+}
+
+.tech-icon {
+  width: 70px; /* size of the circle */
+  height: 70px;
+  border-radius: 50%; /* makes it a circle */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1a1a2e; /* dark background */
+  box-shadow: 0 0 10px #764BA2, 0 0 20px #764BA2, 0 0 30px #764BA2; /* glow effect */
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.tech-icon img {
+  width: 50%;
+  height: 50%;
+  object-fit: contain;
+}
+
+.tech-icon:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 20px #764BA2, 0 0 40px #764BA2, 0 0 60px #764BA2; /* stronger glow on hover */
+}
+
+</style>
 
 ## 🌟 **Featured Projects**
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">

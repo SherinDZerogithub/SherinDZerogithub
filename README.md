@@ -36,64 +36,79 @@
 </p>
 
 ## 🚀 Tech Stack
-
 ### **Frontend**
-<div align="center">
-  <img src="assets/html.png" alt="HTML" class="tech-icon-minimal" title="HTML5" />
-  <img src="assets/css.png" alt="CSS" class="tech-icon-minimal" title="CSS3" />
-  <img src="assets/javascript.png" alt="JavaScript" class="tech-icon-minimal" title="JavaScript" />
-  <img src="assets/react.png" alt="React" class="tech-icon-minimal" title="React" />
-  <img src="assets/nextjs.png" alt="Next.js" class="tech-icon-minimal" title="Next.js" />
-  <img src="assets/tailwind-css.png" alt="Tailwind CSS" class="tech-icon-minimal" title="Tailwind CSS" />
+<div class="tech-container">
+  <div class="tech-item"><img src="assets/html.png" alt="HTML" title="HTML5" /></div>
+  <div class="tech-item"><img src="assets/css.png" alt="CSS" title="CSS3" /></div>
+  <div class="tech-item"><img src="assets/javascript.png" alt="JavaScript" title="JavaScript" /></div>
+  <div class="tech-item"><img src="assets/react.png" alt="React" title="React" /></div>
+  <div class="tech-item"><img src="assets/nextjs.png" alt="Next.js" title="Next.js" /></div>
+  <div class="tech-item"><img src="assets/tailwind-css.png" alt="Tailwind CSS" title="Tailwind CSS" /></div>
 </div>
 
 ### **Backend**
-<div align="center">
-  <img src="assets/node.png" alt="Node.js" class="tech-icon-minimal" title="Node.js" />
-  <img src="assets/express.png" alt="Express.js" class="tech-icon-minimal" title="Express.js" />
-  <img src="assets/appwrite.png" alt="AppWrite" class="tech-icon-minimal" title="AppWrite" />
+<div class="tech-container">
+  <div class="tech-item"><img src="assets/node.png" alt="Node.js" title="Node.js" /></div>
+  <div class="tech-item"><img src="assets/express.png" alt="Express.js" title="Express.js" /></div>
+  <div class="tech-item"><img src="assets/appwrite.png" alt="AppWrite" title="AppWrite" /></div>
 </div>
 
 ### **Database**
-<div align="center">
-  <img src="assets/mongodb.png" alt="MongoDB" class="tech-icon-minimal" title="MongoDB" />
-  <img src="assets/MySQL.png" alt="MySQL" class="tech-icon-minimal" title="MySQL" />
-  <img src="assets/derby.png" alt="Derby DB" class="tech-icon-minimal" title="Derby DB" />
+<div class="tech-container">
+  <div class="tech-item"><img src="assets/mongodb.png" alt="MongoDB" title="MongoDB" /></div>
+  <div class="tech-item"><img src="assets/MySQL.png" alt="MySQL" title="MySQL" /></div>
+  <div class="tech-item"><img src="assets/derby.png" alt="Derby DB" title="Derby DB" /></div>
 </div>
 
 ### **Languages**
-<div align="center">
-  <img src="assets/java.png" alt="Java" class="tech-icon-minimal" title="Java" />
-  <img src="assets/Python.png" alt="Python" class="tech-icon-minimal" title="Python" />
-  <img src="assets/php.png" alt="PHP" class="tech-icon-minimal" title="PHP" />
+<div class="tech-container">
+  <div class="tech-item"><img src="assets/java.png" alt="Java" title="Java" /></div>
+  <div class="tech-item"><img src="assets/Python.png" alt="Python" title="Python" /></div>
+  <div class="tech-item"><img src="assets/php.png" alt="PHP" title="PHP" /></div>
 </div>
 
 <style>
-  .tech-icon-minimal {
-    width: 50px;
-    height: 50px;
-    margin: 10px;
-    border-radius: 50%;
-    padding: 8px;
-    background: #f8f9fa;
-    object-fit: contain;
-    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-    cursor: pointer;
-    border: 2px solid transparent;
-  }
-  
-  .tech-icon-minimal:hover {
-    transform: scale(1.15);
-    border-color: #6366f1;
-    animation: pulse 1.5s infinite;
-  }
-  
-  @keyframes pulse {
-    0% { box-shadow: 0 0 0 0 rgba(99, 102, 241, 0.4); }
-    70% { box-shadow: 0 0 0 10px rgba(99, 102, 241, 0); }
-    100% { box-shadow: 0 0 0 0 rgba(99, 102, 241, 0); }
-  }
+.tech-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin: 20px 0;
+}
+
+.tech-item {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background: #f8f9fa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  cursor: pointer;
+  border: 2px solid transparent;
+}
+
+.tech-item img {
+  max-width: 50%;
+  max-height: 50%;
+  border-radius: 50%;
+  object-fit: contain;
+}
+
+.tech-item:hover {
+  transform: scale(1.15);
+  border-color: #6366f1;
+  animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+  0% { box-shadow: 0 0 0 0 rgba(99, 102, 241, 0.4); }
+  70% { box-shadow: 0 0 0 10px rgba(99, 102, 241, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(99, 102, 241, 0); }
+}
 </style>
+
 ## 🌟 **Featured Projects**
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
 

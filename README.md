@@ -20,24 +20,36 @@
     </a>
   </p>
 </div>
-
-
 ## 🛠️ Tech Stack
 
-### Frontend Development
-![HTML](assets/html.png) ![CSS](assets/css.png) ![JavaScript](assets/javascript.png) 
-![React](assets/react.png) ![Next.js](assets/nextjs.png) ![Tailwind CSS](assets/tailwind-css.png)
-
-### Backend & Databases
-![Node.js](assets/node.png) ![Express.js](assets/express.png) 
-![MongoDB](assets/mongodb.png) ![MySQL](assets/MySQL.png) ![AppWrite](assets/Appwrite.png)
-![Derby Database](assets/derby.png)
-
-### Programming Languages
-![Java](assets/java.png) ![Python](assets/Python.png) ![PHP](assets/php.png)
-
-### Design Tools
-![Figma](assets/figma.png) ![Canva](assets/canva.png)
+<p align="center">
+  <!-- Frontend -->
+  <img src="assets/html.png" alt="HTML5" title="HTML5" width="50" height="50" style="margin: 5px;"/>
+  <img src="assets/css.png" alt="CSS3" title="CSS3" width="50" height="50" style="margin: 5px;"/>
+  <img src="assets/javascript.png" alt="JavaScript" title="JavaScript" width="50" height="50" style="margin: 5px;"/>
+  <img src="assets/react.png" alt="React" title="React" width="50" height="50" style="margin: 5px;"/>
+  <img src="assets/nextjs.png" alt="Next.js" title="Next.js" width="50" height="50" style="margin: 5px;"/>
+  <img src="assets/tailwind-css.png" alt="Tailwind CSS" title="Tailwind CSS" width="50" height="50" style="margin: 5px;"/>
+  
+  <!-- Backend -->
+  <img src="assets/node.png" alt="Node.js" title="Node.js" width="50" height="50" style="margin: 5px;"/>
+  <img src="assets/express.png" alt="Express.js" title="Express.js" width="50" height="50" style="margin: 5px;"/>
+  <img src="assets/Appwrite.png" alt="AppWrite" title="AppWrite" width="50" height="50" style="margin: 5px;"/>
+  
+  <!-- Databases -->
+  <img src="assets/mongodb.png" alt="MongoDB" title="MongoDB" width="50" height="50" style="margin: 5px;"/>
+  <img src="assets/MySQL.png" alt="MySQL" title="MySQL" width="50" height="50" style="margin: 5px;"/>
+  <img src="assets/derby.png" alt="Derby Database" title="Derby Database" width="50" height="50" style="margin: 5px;"/>
+  
+  <!-- Languages -->
+  <img src="assets/java.png" alt="Java" title="Java" width="50" height="50" style="margin: 5px;"/>
+  <img src="assets/Python.png" alt="Python" title="Python" width="50" height="50" style="margin: 5px;"/>
+  <img src="assets/php.png" alt="PHP" title="PHP" width="50" height="50" style="margin: 5px;"/>
+  
+  <!-- Design Tools -->
+  <img src="assets/figma.png" alt="Figma" title="Figma" width="50" height="50" style="margin: 5px;"/>
+  <img src="assets/canva.png" alt="Canva" title="Canva" width="50" height="50" style="margin: 5px;"/>
+</p>
 
 ---
 

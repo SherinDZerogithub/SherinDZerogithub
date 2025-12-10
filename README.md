@@ -70,17 +70,8 @@
     border: 2px solid transparent;
   }
   
-  .tech-icon-minimal:hover {
-    transform: scale(0.15);
-    border-color: #6366f1;
-    animation: pulse 1.5s infinite;
-  }
-  
-  @keyframes pulse {
-    0% { box-shadow: 0 0 0 0 rgba(99, 102, 241, 0.4); }
-    70% { box-shadow: 0 0 0 10px rgba(99, 102, 241, 0); }
-    100% { box-shadow: 0 0 0 0 rgba(99, 102, 241, 0); }
-  }
+ 
+
 </style>
 
 ## 🌟 **Featured Projects**

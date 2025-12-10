@@ -17,140 +17,80 @@
     </a>
   </p>
 </div>
-## 🚀 Tech Stack
+🚀 Tech Stack
+
+
 
 ### **Frontend**
 <div align="center">
-  <!-- HTML -->
   <a href="#" title="HTML5">
-    <img src="assets/html.png" alt="HTML" class="tech-icon" />
+    <img src="assets/html.png" alt="HTML" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
   </a>
-  <!-- CSS -->
   <a href="#" title="CSS3">
-    <img src="assets/css.png" alt="CSS" class="tech-icon" />
+    <img src="assets/css.png" alt="CSS" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
   </a>
-  <!-- JavaScript -->
   <a href="#" title="JavaScript">
-    <img src="assets/javascript.png" alt="JavaScript" class="tech-icon" width="60" height="60" />
+    <img src="assets/javascript.png" alt="JavaScript" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
   </a>
-  <!-- React -->
   <a href="#" title="React">
-    <img src="assets/react.png" alt="React" class="tech-icon" />
+    <img src="assets/react.png" alt="React" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
   </a>
-  <!-- Next.js -->
   <a href="#" title="Next.js">
-    <img src="assets/nextjs.png" alt="Next.js" class="tech-icon" width="60" height="60" />
+    <img src="assets/nextjs.png" alt="Next.js" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
   </a>
-  <!-- Tailwind CSS -->
   <a href="#" title="Tailwind CSS">
-    <img src="assets/tailwind-css.png" alt="Tailwind CSS" class="tech-icon" width="60" height="60" />
+    <img src="assets/tailwind-css.png" alt="Tailwind" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
   </a>
 </div>
 
 ### **Backend**
 <div align="center">
-  <!-- Node.js -->
   <a href="#" title="Node.js">
-    <img src="assets/node.png" alt="Node.js" class="tech-icon" />
+    <img src="assets/node.png" alt="Node.js" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
   </a>
-  <!-- Express.js -->
   <a href="#" title="Express.js">
-    <img src="assets/express.png" alt="Express.js" class="tech-icon" />
+    <img src="assets/express.png" alt="Express.js" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
   </a>
-  <!-- AppWrite -->
   <a href="#" title="AppWrite">
-    <img src="assets/appwrite.png" alt="AppWrite" class="tech-icon" width="60" height="60" />
+    <img src="assets/appwrite.png" alt="AppWrite" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
   </a>
 </div>
 
 ### **Database**
 <div align="center">
-  <!-- MongoDB -->
   <a href="#" title="MongoDB">
-    <img src="assets/mongodb.png" alt="MongoDB" class="tech-icon" width="60" height="60" />
+    <img src="assets/mongodb.png" alt="MongoDB" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
   </a>
-  <!-- MySQL -->
   <a href="#" title="MySQL">
-    <img src="assets/MySQL.png" alt="MySQL" class="tech-icon" />
+    <img src="assets/MySQL.png" alt="MySQL" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
   </a>
-  <!-- Derby DB -->
   <a href="#" title="Derby DB">
-    <img src="assets/derby.png" alt="Derby DB" class="tech-icon" width="60" height="60" />
+    <img src="assets/derby.png" alt="Derby DB" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
   </a>
 </div>
 
 ### **Languages**
 <div align="center">
-  <!-- Java -->
   <a href="#" title="Java">
-    <img src="assets/java.png" alt="Java" class="tech-icon" />
+    <img src="assets/java.png" alt="Java" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
   </a>
-  <!-- Python -->
   <a href="#" title="Python">
-    <img src="assets/Python.png" alt="Python" class="tech-icon" width="60" height="60" />
+    <img src="assets/Python.png" alt="Python" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
   </a>
-  <!-- PHP -->
   <a href="#" title="PHP">
-    <img src="assets/php.png" alt="PHP" class="tech-icon" width="60" height="60" />
+    <img src="assets/php.png" alt="PHP" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
   </a>
 </div>
 
 ### **Design**
 <div align="center">
-  <!-- Java -->
-  <a href="#" title="Java">
-    <img src="assets/canva.png" alt="Java" class="tech-icon" width="60" height="60"  />
+  <a href="#" title="Canva">
+    <img src="assets/canva.png" alt="Canva" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
   </a>
-  <!-- Python -->
-  <a href="#" title="Python">
-    <img src="assets/figma.png" alt="Python" class="tech-icon" />
+  <a href="#" title="Figma">
+    <img src="assets/figma.png" alt="Figma" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
   </a>
-  <!-- PHP -->
- 
 </div>
-<style>
-  .tech-icon {
-    width: 60px;
-    height: 60px;
-    margin: 8px;
-    padding: 10px;
-    border-radius: 50%;
-    background: linear-gradient(145deg, #f0f0f0, #ffffff);
-    box-shadow: 5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;
-    object-fit: contain;
-    transition: all 0.3s ease;
-    cursor: pointer;
-  }
-  
-  .tech-icon:hover {
-    transform: translateY(-5px) scale(1.1);
-    box-shadow: 8px 8px 20px #c9c9c9, -8px -8px 20px #ffffff;
-    background: linear-gradient(145deg, #e6e6e6, #ffffff);
-  }
-  
-  /* Glow effect on hover */
-  .tech-icon:hover:nth-child(1) { filter: drop-shadow(0 0 8px #e34c26); } /* HTML */
-  .tech-icon:hover:nth-child(2) { filter: drop-shadow(0 0 8px #264de4); } /* CSS */
-  .tech-icon:hover:nth-child(3) { filter: drop-shadow(0 0 8px #f0db4f); } /* JS */
-  .tech-icon:hover:nth-child(4) { filter: drop-shadow(0 0 8px #61dafb); } /* React */
-  .tech-icon:hover:nth-child(5) { filter: drop-shadow(0 0 8px #000000); } /* Next.js */
-  .tech-icon:hover:nth-child(6) { filter: drop-shadow(0 0 8px #38b2ac); } /* Tailwind */
-  
-  /* Backend icons */
-  .tech-icon:hover:nth-child(7) { filter: drop-shadow(0 0 8px #68a063); } /* Node.js */
-  .tech-icon:hover:nth-child(8) { filter: drop-shadow(0 0 8px #000000); } /* Express */
-  .tech-icon:hover:nth-child(9) { filter: drop-shadow(0 0 8px #fd366e); } /* AppWrite */
-  
-  /* Database icons */
-  .tech-icon:hover:nth-child(10) { filter: drop-shadow(0 0 8px #47a248); } /* MongoDB */
-  .tech-icon:hover:nth-child(11) { filter: drop-shadow(0 0 8px #00758f); } /* MySQL */
-  .tech-icon:hover:nth-child(12) { filter: drop-shadow(0 0 8px #f29111); } /* Derby DB */
-  
-  /* Language icons */
-  .tech-icon:hover:nth-child(13) { filter: drop-shadow(0 0 8px #007396); } /* Java */
-  .tech-icon:hover:nth-child(14) { filter: drop-shadow(0 0 8px #3776ab); } /* Python */
-  .tech-icon:hover:nth-child(15) { filter: drop-shadow(0 0 8px #777bb4); } /* PHP */
-</style>
 
 ## 🌟 **Featured Projects**
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">

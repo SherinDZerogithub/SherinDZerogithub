@@ -21,154 +21,40 @@
   </p>
 </div>
 
----
 
 
-## 🚀 **My Tech Arsenal**
+## 🚀 Tech Stack
 
-<div align="center">
+### **Frontend**
+<p align="center">
+  <img src="assets/html.png" alt="HTML" width="50" height="50" />
+  <img src="assets/css.png" alt="CSS" width="50" height="50" />
+  <img src="assets/javascript.png" alt="JavaScript" width="50" height="50" />
+  <img src="assets/react.png" alt="React" width="50" height="50" />
+  <img src="assets/nextjs.png" alt="Next.js" width="50" height="50" />
+  <img src="assets/tailwind-css.png" alt="Tailwind CSS" width="50" height="50" />
+</p>
 
-### **✨ Full Stack Skills**
-<!-- Single horizontal row with all skills -->
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap; overflow-x: auto; padding: 15px 0; gap: 12px; width: 100%; white-space: nowrap;">
+### **Backend**
+<p align="center">
+  <img src="assets/node.png" alt="Node.js" width="50" height="50" />
+  <img src="assets/express.png" alt="Express.js" width="50" height="50" />
+  <img src="assets/appwrite.png" alt="AppWrite" width="50" height="50" />
+</p>
 
-  <!-- HTML5 -->
-  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
-    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(255,87,34,0.1) 0%, rgba(255,87,34,0.05) 100%);">
-      <img src="assets/html.png" alt="HTML5" title="HTML5" width="55" height="55" 
-           style="border-radius: 12px; transition: all 0.3s ease;" />
-    </div>
-    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">HTML5</p>
-  </div>
+### **Database**
+<p align="center">
+  <img src="assets/mongodb.png" alt="MongoDB" width="50" height="50" />
+  <img src="assets/MySQL.png" alt="MySQL" width="50" height="50" />
+  <img src="assets/derby.png" alt="Derby DB" width="50" height="50" />
+</p>
 
-  <!-- CSS3 -->
-  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
-    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(33,150,243,0.1) 0%, rgba(33,150,243,0.05) 100%);">
-      <img src="assets/css.png" alt="CSS3" title="CSS3" width="55" height="55" 
-           style="border-radius: 12px; transition: all 0.3s ease;" />
-    </div>
-    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">CSS3</p>
-  </div>
-
-  <!-- JavaScript -->
-  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
-    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(255,193,7,0.1) 0%, rgba(255,193,7,0.05) 100%);">
-      <img src="assets/javascript.png" alt="JavaScript" title="JavaScript" width="55" height="55" 
-           style="border-radius: 12px; transition: all 0.3s ease;" />
-    </div>
-    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">JS</p>
-  </div>
-
-  <!-- React -->
-  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
-    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(97,218,251,0.1) 0%, rgba(97,218,251,0.05) 100%);">
-      <img src="assets/react.png" alt="React" title="React" width="55" height="55" 
-           style="border-radius: 12px; transition: all 0.3s ease;" />
-    </div>
-    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">React</p>
-  </div>
-
-  <!-- Next.js -->
-  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
-    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.05) 100%);">
-      <img src="assets/nextjs.png" alt="Next.js" title="Next.js" width="55" height="55" 
-           style="border-radius: 12px; transition: all 0.3s ease;" />
-    </div>
-    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">Next.js</p>
-  </div>
-
-  <!-- Tailwind -->
-  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
-    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(6,182,212,0.1) 0%, rgba(6,182,212,0.05) 100%);">
-      <img src="assets/tailwind-css.png" alt="Tailwind CSS" title="Tailwind CSS" width="55" height="55" 
-           style="border-radius: 12px; transition: all 0.3s ease;" />
-    </div>
-    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">Tailwind</p>
-  </div>
-
-  <!-- Node.js -->
-  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
-    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(51,153,51,0.1) 0%, rgba(51,153,51,0.05) 100%);">
-      <img src="assets/node.png" alt="Node.js" title="Node.js" width="55" height="55" 
-           style="border-radius: 12px; transition: all 0.3s ease;" />
-    </div>
-    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">Node.js</p>
-  </div>
-
-  <!-- Express -->
-  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
-    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.05) 100%);">
-      <img src="assets/express.png" alt="Express.js" title="Express.js" width="55" height="55" 
-           style="border-radius: 12px; transition: all 0.3s ease;" />
-    </div>
-    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">Express</p>
-  </div>
-
-  <!-- MongoDB -->
-  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
-    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(71,162,72,0.1) 0%, rgba(71,162,72,0.05) 100%);">
-      <img src="assets/mongodb.png" alt="MongoDB" title="MongoDB" width="55" height="55" 
-           style="border-radius: 12px; transition: all 0.3s ease;" />
-    </div>
-    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">MongoDB</p>
-  </div>
-
-  <!-- MySQL -->
-  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
-    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(68,121,161,0.1) 0%, rgba(68,121,161,0.05) 100%);">
-      <img src="assets/MySQL.png" alt="MySQL" title="MySQL" width="55" height="55" 
-           style="border-radius: 12px; transition: all 0.3s ease;" />
-    </div>
-    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">MySQL</p>
-  </div>
-
-  <!-- AppWrite -->
-  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
-    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(240,46,101,0.1) 0%, rgba(240,46,101,0.05) 100%);">
-      <img src="assets/Appwrite.png" alt="AppWrite" title="AppWrite" width="55" height="55" 
-           style="border-radius: 12px; transition: all 0.3s ease;" />
-    </div>
-    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">AppWrite</p>
-  </div>
-
-  <!-- Figma -->
-  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
-    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(242,78,30,0.1) 0%, rgba(242,78,30,0.05) 100%);">
-      <img src="assets/figma.png" alt="Figma" title="Figma" width="55" height="55" 
-           style="border-radius: 12px; transition: all 0.3s ease;" />
-    </div>
-    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">Figma</p>
-  </div>
-
-  <!-- Java -->
-  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
-    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(0,115,150,0.1) 0%, rgba(0,115,150,0.05) 100%);">
-      <img src="assets/java.png" alt="Java" title="Java" width="55" height="55" 
-           style="border-radius: 12px; transition: all 0.3s ease;" />
-    </div>
-    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">Java</p>
-  </div>
-
-  <!-- Python -->
-  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
-    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(55,118,171,0.1) 0%, rgba(55,118,171,0.05) 100%);">
-      <img src="assets/Python.png" alt="Python" title="Python" width="55" height="55" 
-           style="border-radius: 12px; transition: all 0.3s ease;" />
-    </div>
-    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">Python</p>
-  </div>
-
-  <!-- PHP -->
-  <div class="skill-icon" style="flex: 0 0 auto; text-align: center; min-width: 70px;">
-    <div class="icon-wrapper" style="background: linear-gradient(135deg, rgba(119,123,179,0.1) 0%, rgba(119,123,179,0.05) 100%);">
-      <img src="assets/php.png" alt="PHP" title="PHP" width="55" height="55" 
-           style="border-radius: 12px; transition: all 0.3s ease;" />
-    </div>
-    <p style="margin-top: 5px; font-weight: bold; font-size: 11px; color: #fff;">PHP</p>
-  </div>
-
-</div>
-
+### **Languages**
+<p align="center">
+  <img src="assets/java.png" alt="Java" width="50" height="50" />
+  <img src="assets/Python.png" alt="Python" width="50" height="50" />
+  <img src="assets/php.png" alt="PHP" width="50" height="50" />
+</p>
 
 ## 🌟 **Featured Projects**
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
@@ -202,8 +88,16 @@
 
 </div>
 
-<!-- Animated Footer -->
-<p align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn&reversal=true" />
-</p>
+## 🛤️ My Journey
+- 🎨 UI Designer  
+- 💻 Frontend Developer  
+- 🌐 Fullstack Developer  
+- 📱 Responsive Web Designer  
+- 🖼️ Graphic Designer (Canva)
+
+
+
+---
+
+<p align="center">© 2025 Serini Puwakgolla | Built with ❤️ and React</p>
 

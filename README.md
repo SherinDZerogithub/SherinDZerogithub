@@ -27,7 +27,8 @@
 
 <!-- Frontend -->
 ### **✨ Frontend Development**
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px; margin: 30px 0;">
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap; overflow-x: auto; padding: 20px;">
   <!-- HTML5 -->
   <div style="text-align: center;">
     <img src="assets/html.png" alt="HTML5" title="HTML5" width="85" height="85" style="border-radius: 20px; transition: all 0.4s ease; box-shadow: 0 8px 16px rgba(255, 87, 34, 0.3);" 

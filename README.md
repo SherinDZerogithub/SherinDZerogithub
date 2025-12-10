@@ -53,7 +53,7 @@
     <img src="assets/express.png" alt="Express.js" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
   </a>
   <a href="#" title="AppWrite">
-    <img src="assets/appwrite.png" alt="AppWrite" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
+    <img src="assets/Appwrite.png" alt="AppWrite" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
   </a>
 </div>
 

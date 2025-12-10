@@ -24,7 +24,7 @@
     <!-- Frontend -->
     <img src="assets/html.png" alt="HTML5" title="HTML5" class="tech-icon" />
     <img src="assets/css.png" alt="CSS3" title="CSS3" class="tech-icon" />
-    <img src="assets/javascript.png" alt="JavaScript" title="JavaScript" class="tech-icon" />
+    <img src="assets/javascript.png" alt="JavaScript" title="JavaScript" class="tech-icon" width="60" height="60"/>
     <img src="assets/react.png" alt="React" title="React" class="tech-icon" />
     <img src="assets/nextjs.png" alt="Next.js" title="Next.js" class="tech-icon" />
     <img src="assets/tailwind-css.png" alt="Tailwind CSS" title="Tailwind CSS" class="tech-icon" />

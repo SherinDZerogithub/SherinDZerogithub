@@ -17,67 +17,61 @@
     </a>
   </p>
 </div>
-🛠️ Tech Stack
+<section class="tech-section">
+  <h2>🛠️ Tech Stack</h2>
 
-<p align="center" class="tech-stack">
-  <!-- Frontend -->
-  <span class="tech-icon"><img src="assets/html.png" alt="HTML5" title="HTML5" /></span>
-  <span class="tech-icon"><img src="assets/css.png" alt="CSS3" title="CSS3" /></span>
-  <span class="tech-icon"><img src="assets/javascript.png" alt="JavaScript" title="JavaScript" /></span>
-  <span class="tech-icon"><img src="assets/react.png" alt="React" title="React" /></span>
-  <span class="tech-icon"><img src="assets/nextjs.png" alt="Next.js" title="Next.js" /></span>
-  <span class="tech-icon"><img src="assets/tailwind-css.png" alt="Tailwind CSS" title="Tailwind CSS" /></span>
-  
-  <!-- Backend -->
-  <span class="tech-icon"><img src="assets/node.png" alt="Node.js" title="Node.js" /></span>
-  <span class="tech-icon"><img src="assets/express.png" alt="Express.js" title="Express.js" /></span>
-  <span class="tech-icon"><img src="assets/Appwrite.png" alt="AppWrite" title="AppWrite" /></span>
-  
-  <!-- Databases -->
-  <span class="tech-icon"><img src="assets/mongodb.png" alt="MongoDB" title="MongoDB" /></span>
-  <span class="tech-icon"><img src="assets/MySQL.png" alt="MySQL" title="MySQL" /></span>
-  <span class="tech-icon"><img src="assets/derby.png" alt="Derby Database" title="Derby Database" /></span>
-  
-  <!-- Languages -->
-  <span class="tech-icon"><img src="assets/java.png" alt="Java" title="Java" /></span>
-  <span class="tech-icon"><img src="assets/Python.png" alt="Python" title="Python" /></span>
-  <span class="tech-icon"><img src="assets/php.png" alt="PHP" title="PHP" /></span>
-  
-  <!-- Design Tools -->
-  <span class="tech-icon"><img src="assets/figma.png" alt="Figma" title="Figma" /></span>
-  <span class="tech-icon"><img src="assets/canva.png" alt="Canva" title="Canva" /></span>
-</p>
+  <div class="tech-stack">
+    <!-- Frontend -->
+    <img src="assets/html.png" alt="HTML5" title="HTML5" class="tech-icon" />
+    <img src="assets/css.png" alt="CSS3" title="CSS3" class="tech-icon" />
+    <img src="assets/javascript.png" alt="JavaScript" title="JavaScript" class="tech-icon" />
+    <img src="assets/react.png" alt="React" title="React" class="tech-icon" />
+    <img src="assets/nextjs.png" alt="Next.js" title="Next.js" class="tech-icon" />
+    <img src="assets/tailwind-css.png" alt="Tailwind CSS" title="Tailwind CSS" class="tech-icon" />
+    <img src="assets/node.png" alt="Node.js" title="Node.js" class="tech-icon" />
+    <img src="assets/express.png" alt="Express.js" title="Express.js" class="tech-icon" />
+    <img src="assets/Appwrite.png" alt="AppWrite" title="AppWrite" class="tech-icon" />
+    <img src="assets/mongodb.png" alt="MongoDB" title="MongoDB" class="tech-icon" />
+    <img src="assets/MySQL.png" alt="MySQL" title="MySQL" class="tech-icon" />
+    <img src="assets/derby.png" alt="Derby" title="Derby Database" class="tech-icon" />
+    <img src="assets/java.png" alt="Java" title="Java" class="tech-icon" />
+    <img src="assets/Python.png" alt="Python" title="Python" class="tech-icon" />
+    <img src="assets/php.png" alt="PHP" title="PHP" class="tech-icon" />
+    <img src="assets/figma.png" alt="Figma" title="Figma" class="tech-icon" />
+    <img src="assets/canva.png" alt="Canva" title="Canva" class="tech-icon" />
+  </div>
+</section>
 
 <style>
-  .tech-stack {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 15px;
-  }
+  .tech-section {
+  text-align: center;
+}
 
-  .tech-icon {
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: #1a1a2e;
-    box-shadow: 0 0 10px #764BA2, 0 0 20px #764BA2, 0 0 30px #764BA2;
-    transition: transform 0.3s, box-shadow 0.3s;
-  }
+.tech-stack {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 18px;
+  margin-top: 20px;
+}
 
-  .tech-icon img {
-    width: 50%;
-    height: 50%;
-    object-fit: contain;
-  }
+.tech-icon {
+  width: 70px;
+  height: 70px;
+  padding: 15px;
+  border-radius: 50%;
+  background: #1a1a2e;
+  box-shadow: 0 0 12px rgba(118, 75, 162, 0.6);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  object-fit: contain;
+}
 
-  .tech-icon:hover {
-    transform: scale(1.1);
-    box-shadow: 0 0 20px #764BA2, 0 0 40px #764BA2, 0 0 60px #764BA2;
-  }
+.tech-icon:hover {
+  transform: scale(1.12);
+  box-shadow: 0 0 20px rgba(118, 75, 162, 0.9),
+              0 0 40px rgba(118, 75, 162, 0.7);
+}
+
 </style>
 
 

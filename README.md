@@ -7,7 +7,7 @@
 <!-- Short Intro & Contact -->
 <div align="center">
   <h3> I am a 🎓 Computer Science Undergraduate | 💻 Full-Stack Developer | 🎨 UI Designer</h3>
-  <p>Passionate about crafting beautiful, functional digital experiences with clean code and thoughtful design</p>
+  
   
   <p>
     <a href="https://www.linkedin.com/in/serini-p-96463a24b">

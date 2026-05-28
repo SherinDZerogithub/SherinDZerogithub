@@ -6,7 +6,7 @@
 
 <!-- Short Intro & Contact -->
 <div align="center">
-  <h3> I am a 🎓 Computer Science Undergraduate | 💻 Full-Stack Developer | 🎨 UI Designer</h3>
+  <h3> Computer Science Undergraduate | 💻 Full-Stack Developer | 🎨 UI Designer</h3>
   
   
   <p>

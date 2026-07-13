@@ -68,55 +68,37 @@
 
 ## 🌟 Featured AI/ML & Engineering Projects
 
+## 🌟 Featured AI / ML Projects
+
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
 
-  <!-- Project 1: AI/ML Focus -->
+  <div style="background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid #30363d; padding: 20px; border-radius: 10px; text-align: left; color: #c9d1d9;">
+    <h3>🎧 Voice-To-Text Mood Companion</h3>
+    <p>An AI-powered wellness and voice intelligence app that turns speech into mood-aware insights. Built with speech recognition, semantic mood analysis, image understanding, weekly AI summaries, and personalized recommendations across voice, text, and image inputs.</p>
+    <p><strong>Architecture:</strong> React Native, FastAPI, Gemini, Sentence Transformers, BLIP/CLIP, SQLite</p>
+    <a href="https://github.com/SherinDZerogithub/Voice-To-Text" target="_blank">
+      <img src="https://img.shields.io/badge/Source_Code-764BA2?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+    </a>
+  </div>
+
+  <div style="background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid #30363d; padding: 20px; border-radius: 10px; text-align: left; color: #c9d1d9;">
+    <h3>🗡️ AI Dungeon Master</h3>
+    <p>An LLM-driven interactive story engine that generates dynamic adventures from free-text player actions. It combines structured JSON state updates, rolling memory summaries, chaos injection, and AI-generated scene illustrations to keep the narrative coherent and playful.</p>
+    <p><strong>Architecture:</strong> FastAPI, Streamlit, Google Gemini, SQLite, AI Image Generation</p>
+    <a href="https://github.com/SherinDZerogithub/game-dev" target="_blank">
+      <img src="https://img.shields.io/badge/Source_Code-764BA2?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+    </a>
+  </div>
+
   <div style="background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid #30363d; padding: 20px; border-radius: 10px; text-align: left; color: #c9d1d9;">
     <h3>🎬 Cross-Platform Movie Discovery & Recommendation Engine</h3>
-    <p>A native mobile ecosystem powered by TMDB metadata filtering. Engineered asynchronous recommendation pipelines, custom user watchlist vector modeling emulation, and instant discoverability based on data points.</p>
-    <p><strong>Architecture:</strong> React Native, Appwrite (BaaS), TMDB REST Data Integration</p>
+    <p>A movie discovery system powered by TMDB metadata and personalized filtering logic. Designed to emulate recommendation behavior through user watchlist patterns, async data flows, and instant content discovery across platforms.</p>
+    <p><strong>Architecture:</strong> React Native, Appwrite, TMDB REST API, Personalized Recommendation Logic</p>
     <a href="https://github.com/SherinDZerogithub/Movie-Recommendation" target="_blank">
       <img src="https://img.shields.io/badge/Source_Code-764BA2?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
     </a>
   </div>
-
-  <!-- Project 2: Systems/Fullstack -->
-  <div style="background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid #30363d; padding: 20px; border-radius: 10px; text-align: left; color: #c9d1d9;">
-    <h3>🛒 Data-Driven Full-Stack E-Commerce Engine</h3>
-    <p>A robust storefront application focusing on data persistence and operations analytics. Features secure transactional states, granular inventory tracking schemas, and a dynamic backend admin panel for data parsing.</p>
-    <p><strong>Architecture:</strong> React, Node.js, MongoDB, Cloudinary Media Pipelines</p>
-    <a href="https://github.com/SherinDZerogithub/e-commerce" target="_blank">
-      <img src="https://img.shields.io/badge/Source_Code-764BA2?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-    </a>
-  </div>
-
-  <!-- Project 3: Systems/Fullstack -->
-  <div style="background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid #30363d; padding: 20px; border-radius: 10px; text-align: left; color: #c9d1d9;">
-    <h3>📚 Enterprise Task Analytics & Management System</h3>
-    <p>A workflow framework featuring secure operational pipelines, strict role-based access control (RBAC), and statistical dashboards tracking user task completion velocities.</p>
-    <p><strong>Architecture:</strong> Laravel (PHP), MySQL, Tailwind CSS, AdminLTE</p>
-    <a href="https://github.com/SherinDZerogithub/tasks-manager" target="_blank">
-      <img src="https://img.shields.io/badge/Source_Code-764BA2?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-    </a>
-  </div>
-
 </div>
 
 ---
 
-## 📊 Data & Contribution Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SherinDZerogithub&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Serini's GitHub Stats" height="165px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SherinDZerogithub&theme=tokyonight&hide_border=true" alt="Serini's Streak Stats" height="165px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherinDZerogithub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150px"/>
-</p>
-
----
-
-<p align="center">
-  <i>"In God we trust, all others must bring data."</i> — W. Edwards Deming<br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&fontSize=18&fontAlignY=40" />
-</p>

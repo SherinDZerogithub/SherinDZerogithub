@@ -1,141 +1,127 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=✨%20Hi,%20I%20am%20Serini%20Puwakgolla%20✨&fontSize=42&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=✨%20Hi,%20I'm%20Serini%20Puwakgolla%20✨&fontSize=40&animation=fadeIn&fontAlignY=40" />
 </p>
 
-
-
-<!-- Short Intro & Contact -->
 <div align="center">
-  <h3> Computer Science Undergraduate | 💻 Full-Stack Developer | 🎨 UI Designer</h3>
+  <h3>🎓 Final Year Computer Science Undergraduate | 💻 Full-Stack Engineer | 🎨 UI/UX Designer</h3>
+  <p>Building scalable web applications, sleek mobile experiences, and intuitive digital products.</p>
   
-  
-  <p>
-    <a href="https://www.linkedin.com/in/serini-p-96463a24b">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000" alt="LinkedIn"/>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/serini-p-96463a24b" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://sherindzerogithub.github.io/PortFolioProject/">
-      <img src="https://img.shields.io/badge/Portfolio-764BA2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000" alt="Portfolio"/>
+    <a href="https://sherindzerogithub.github.io/PortFolioProject/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-764BA2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
 </div>
-🚀 Tech Stack
-
-
-
-### **Frontend**
-<div align="center">
-  <a href="#" title="HTML5">
-    <img src="assets/html.png" alt="HTML" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
-  </a>
-  <a href="#" title="CSS3">
-    <img src="assets/css.png" alt="CSS" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
-  </a>
-  <a href="#" title="JavaScript">
-    <img src="assets/javascript.png" alt="JavaScript" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
-  </a>
-  <a href="#" title="React">
-    <img src="assets/react.png" alt="React" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
-  </a>
-  <a href="#" title="Next.js">
-    <img src="assets/nextjs.png" alt="Next.js" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
-  </a>
-  <a href="#" title="Tailwind CSS">
-    <img src="assets/tailwind-css.png" alt="Tailwind" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
-  </a>
-</div>
-
-### **Backend**
-<div align="center">
-  <a href="#" title="Node.js">
-    <img src="assets/node.png" alt="Node.js" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
-  </a>
-  <a href="#" title="Express.js">
-    <img src="assets/express.png" alt="Express.js" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
-  </a>
-  <a href="#" title="AppWrite">
-    <img src="assets/Appwrite.png" alt="AppWrite" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
-  </a>
-</div>
-
-### **Database**
-<div align="center">
-  <a href="#" title="MongoDB">
-    <img src="assets/mongodb.png" alt="MongoDB" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
-  </a>
-  <a href="#" title="MySQL">
-    <img src="assets/MySQL.png" alt="MySQL" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
-  </a>
-  <a href="#" title="Derby DB">
-    <img src="assets/derby.png" alt="Derby DB" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
-  </a>
-</div>
-
-### **Languages**
-<div align="center">
-  <a href="#" title="Java">
-    <img src="assets/java.png" alt="Java" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
-  </a>
-  <a href="#" title="Python">
-    <img src="assets/Python.png" alt="Python" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
-  </a>
-  <a href="#" title="PHP">
-    <img src="assets/php.png" alt="PHP" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
-  </a>
-</div>
-
-### **Design**
-<div align="center">
-  <a href="#" title="Canva">
-    <img src="assets/canva.png" alt="Canva" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
-  </a>
-  <a href="#" title="Figma">
-    <img src="assets/figma.png" alt="Figma" width="60" height="60" style="margin:8px; padding:10px; border-radius:50%; background:#fff; box-shadow:5px 5px 15px #d9d9d9, -5px -5px 15px #ffffff;" />
-  </a>
-</div>
-
-## 🌟 **Featured Projects**
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
-
-  <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 20px; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
-    <h3>🛒 E-Commerce App</h3>
-    <p>Full-featured web app with product browsing, cart, user auth, and admin panel.</p>
-    <p><strong>Tech:</strong> React, Node.js, MongoDB, Cloudinary</p>
-    <a href="https://github.com/SherinDZerogithub/e-commerce">
-      <img src="https://img.shields.io/badge/View_Project-764BA2?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-    </a>
-  </div>
-
-  <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 20px; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
-    <h3>📚 Laravel Task Manager Application</h3>
-    <p>A full-featured task management system with role-based access and a professional admin dashboard.</p>
-    <p><strong>Tech:</strong> Laravel (PHP), MySQL, AdminLTE, Tailwind CSS</p>
-    <a href="https://github.com/SherinDZerogithub/tasks-manager">
-      <img src="https://img.shields.io/badge/View_Project-764BA2?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-    </a>
-  </div>
-
-  <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 20px; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
-    <h3>🎬 Movie Recommendation</h3>
-    <p>Mobile app for discovering movies built with React Native.</p>
-    <p><strong>Tech:</strong> React Native, Appwrite, TMDB API</p>
-    <a href="https://github.com/SherinDZerogithub/Movie-Recommendation">
-      <img src="https://img.shields.io/badge/View_Project-764BA2?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-    </a>
-  </div>
-
-</div>
-
-## 🛤️ My Journey
-- 🎨 UI Designer  
-- 💻 Frontend Developer  
-- 🌐 Fullstack Developer  
-- 📱 Responsive Web Designer  
-- 🖼️ Graphic Designer (Canva)
-
-
 
 ---
+
+## ⚡ Quick Overview
+- 🔭 **Current Focus:** Deep-diving into Full-Stack Architecture, API Performance, and Mobile Development.
+- 🎓 **Education:** 4th-Year Computer Science Undergraduate.
+- 🛠️ **Engineering Philosophy:** Clean code, component reuse, and pixel-perfect responsive user experiences.
+
+---
+
+## 🚀 Technical Arsenal
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎨 Frontend & Mobile Engineering</h4>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend, Frameworks & DBs</h4>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white" />
+      <br><br>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧮 Core Languages</h4>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>📐 Product Design & Tooling</h4>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌟 Featured Engineering Projects
+
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
+
+  <!-- Project 1 -->
+  <div style="background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid #30363d; padding: 20px; border-radius: 10px; text-align: left; color: #c9d1d9;">
+    <h3>🛒 Full-Stack E-Commerce Engine</h3>
+    <p>A production-ready store platform featuring intuitive user auth, high-efficiency cart mechanics, secure checkout workflows, and a dynamic operations admin panel.</p>
+    <p><strong>Architecture:</strong> React, Node.js, MongoDB, Cloudinary API</p>
+    <a href="https://github.com/SherinDZerogithub/e-commerce" target="_blank">
+      <img src="https://img.shields.io/badge/Source_Code-764BA2?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+    </a>
+  </div>
+
+  <!-- Project 2 -->
+  <div style="background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid #30363d; padding: 20px; border-radius: 10px; text-align: left; color: #c9d1d9;">
+    <h3>📚 Enterprise Task Management System</h3>
+    <p>A robust workflow application featuring strict RBAC (Role-Based Access Control) layers, granular task assignment logic, and a refined AdminLTE dashboard layout.</p>
+    <p><strong>Architecture:</strong> Laravel (PHP), MySQL, Tailwind CSS, AdminLTE</p>
+    <a href="https://github.com/SherinDZerogithub/tasks-manager" target="_blank">
+      <img src="https://img.shields.io/badge/Source_Code-764BA2?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+    </a>
+  </div>
+
+  <!-- Project 3 -->
+  <div style="background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid #30363d; padding: 20px; border-radius: 10px; text-align: left; color: #c9d1d9;">
+    <h3>🎬 Cross-Platform Movie Engine</h3>
+    <p>A native mobile experience leveraging TMDB services to deliver seamless, asynchronous video data streams, customized watchlist persistence, and instant discoverability.</p>
+    <p><strong>Architecture:</strong> React Native, Appwrite (BaaS), TMDB REST API</p>
+    <a href="https://github.com/SherinDZerogithub/Movie-Recommendation" target="_blank">
+      <img src="https://img.shields.io/badge/Source_Code-764BA2?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+    </a>
+  </div>
+
+</div>
+
+---
+
+## 📊 Analytics & Activity
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&fontSize=18&fontAlignY=40" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SherinDZerogithub&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Serini's GitHub Stats" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SherinDZerogithub&theme=tokyonight&hide_border=true" alt="Serini's Streak Stats" height="165px"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherinDZerogithub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150px"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Simplicity is the ultimate sophistication."</i> — Built with passion by Serini.<br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&fontSize=18&fontAlignY=40" />
+</p>

@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h3>🎓 Final Year Computer Science Undergraduate | 🤖 Aspiring AI/ML Engineer | 💻 Full-Stack Developer</h3>
+  <h3>🎓 Final Year Computer Science Undergraduate | 🤖 Aspiring AI/ML Engineer | 💻 Full-Stack Web/ Mobile Developer</h3>
   <p>Bridging the gap between intelligent machine learning models and scalable full-stack applications.</p>
   
   <p align="center">
@@ -20,8 +20,6 @@
 </div>
 
 ---
-
-## ⚡ Quick Overview
 - 🔭 **Current Focus:** Statistical modeling, predictive analytics, and deploying intelligent data pipelines.
 - 🎓 **Education:** 4th-Year Computer Science Undergraduate optimizing algorithms and systems design.
 - 🛠️ **Engineering Philosophy:** Data-driven decisions, optimized model inference, and robust backend integration.
@@ -67,8 +65,6 @@
 ---
 
 ## 🌟 Featured AI/ML & Engineering Projects
-
-## 🌟 Featured AI / ML Projects
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
 

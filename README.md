@@ -3,8 +3,8 @@
 </p>
 
 <div align="center">
-  <h3>🎓 Final Year Computer Science Undergraduate | 💻 Full-Stack Engineer | 🎨 UI/UX Designer</h3>
-  <p>Building scalable web applications, sleek mobile experiences, and intuitive digital products.</p>
+  <h3>🎓 Final Year Computer Science Undergraduate | 🤖 Aspiring AI/ML Engineer | 💻 Full-Stack Developer</h3>
+  <p>Bridging the gap between intelligent machine learning models and scalable full-stack applications.</p>
   
   <p align="center">
     <a href="https://www.linkedin.com/in/serini-p-96463a24b" target="_blank">
@@ -22,9 +22,9 @@
 ---
 
 ## ⚡ Quick Overview
-- 🔭 **Current Focus:** Deep-diving into Full-Stack Architecture, API Performance, and Mobile Development.
-- 🎓 **Education:** 4th-Year Computer Science Undergraduate.
-- 🛠️ **Engineering Philosophy:** Clean code, component reuse, and pixel-perfect responsive user experiences.
+- 🔭 **Current Focus:** Statistical modeling, predictive analytics, and deploying intelligent data pipelines.
+- 🎓 **Education:** 4th-Year Computer Science Undergraduate optimizing algorithms and systems design.
+- 🛠️ **Engineering Philosophy:** Data-driven decisions, optimized model inference, and robust backend integration.
 
 ---
 
@@ -33,74 +33,69 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎨 Frontend & Mobile Engineering</h4>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <h4>🤖 Intelligence & Data Engineering</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-15045C?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h4>⚙️ Backend, Frameworks & DBs</h4>
+      <h4>⚙️ Backend & Model Serving</h4>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white" />
-      <br><br>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧮 Core Languages</h4>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <h4>🗄️ Storage & Databases</h4>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apache_Derby-D32F2F?style=flat-square&logo=apache&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h4>📐 Product Design & Tooling</h4>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <h4>🎨 Frontend & Interfaces</h4>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🌟 Featured Engineering Projects
+## 🌟 Featured AI/ML & Engineering Projects
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
 
-  <!-- Project 1 -->
+  <!-- Project 1: AI/ML Focus -->
   <div style="background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid #30363d; padding: 20px; border-radius: 10px; text-align: left; color: #c9d1d9;">
-    <h3>🛒 Full-Stack E-Commerce Engine</h3>
-    <p>A production-ready store platform featuring intuitive user auth, high-efficiency cart mechanics, secure checkout workflows, and a dynamic operations admin panel.</p>
-    <p><strong>Architecture:</strong> React, Node.js, MongoDB, Cloudinary API</p>
+    <h3>🎬 Cross-Platform Movie Discovery & Recommendation Engine</h3>
+    <p>A native mobile ecosystem powered by TMDB metadata filtering. Engineered asynchronous recommendation pipelines, custom user watchlist vector modeling emulation, and instant discoverability based on data points.</p>
+    <p><strong>Architecture:</strong> React Native, Appwrite (BaaS), TMDB REST Data Integration</p>
+    <a href="https://github.com/SherinDZerogithub/Movie-Recommendation" target="_blank">
+      <img src="https://img.shields.io/badge/Source_Code-764BA2?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+    </a>
+  </div>
+
+  <!-- Project 2: Systems/Fullstack -->
+  <div style="background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid #30363d; padding: 20px; border-radius: 10px; text-align: left; color: #c9d1d9;">
+    <h3>🛒 Data-Driven Full-Stack E-Commerce Engine</h3>
+    <p>A robust storefront application focusing on data persistence and operations analytics. Features secure transactional states, granular inventory tracking schemas, and a dynamic backend admin panel for data parsing.</p>
+    <p><strong>Architecture:</strong> React, Node.js, MongoDB, Cloudinary Media Pipelines</p>
     <a href="https://github.com/SherinDZerogithub/e-commerce" target="_blank">
       <img src="https://img.shields.io/badge/Source_Code-764BA2?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
     </a>
   </div>
 
-  <!-- Project 2 -->
+  <!-- Project 3: Systems/Fullstack -->
   <div style="background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid #30363d; padding: 20px; border-radius: 10px; text-align: left; color: #c9d1d9;">
-    <h3>📚 Enterprise Task Management System</h3>
-    <p>A robust workflow application featuring strict RBAC (Role-Based Access Control) layers, granular task assignment logic, and a refined AdminLTE dashboard layout.</p>
+    <h3>📚 Enterprise Task Analytics & Management System</h3>
+    <p>A workflow framework featuring secure operational pipelines, strict role-based access control (RBAC), and statistical dashboards tracking user task completion velocities.</p>
     <p><strong>Architecture:</strong> Laravel (PHP), MySQL, Tailwind CSS, AdminLTE</p>
     <a href="https://github.com/SherinDZerogithub/tasks-manager" target="_blank">
-      <img src="https://img.shields.io/badge/Source_Code-764BA2?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-    </a>
-  </div>
-
-  <!-- Project 3 -->
-  <div style="background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid #30363d; padding: 20px; border-radius: 10px; text-align: left; color: #c9d1d9;">
-    <h3>🎬 Cross-Platform Movie Engine</h3>
-    <p>A native mobile experience leveraging TMDB services to deliver seamless, asynchronous video data streams, customized watchlist persistence, and instant discoverability.</p>
-    <p><strong>Architecture:</strong> React Native, Appwrite (BaaS), TMDB REST API</p>
-    <a href="https://github.com/SherinDZerogithub/Movie-Recommendation" target="_blank">
       <img src="https://img.shields.io/badge/Source_Code-764BA2?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
     </a>
   </div>
@@ -109,7 +104,7 @@
 
 ---
 
-## 📊 Analytics & Activity
+## 📊 Data & Contribution Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SherinDZerogithub&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Serini's GitHub Stats" height="165px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SherinDZerogithub&theme=tokyonight&hide_border=true" alt="Serini's Streak Stats" height="165px"/>
@@ -122,6 +117,6 @@
 ---
 
 <p align="center">
-  <i>"Simplicity is the ultimate sophistication."</i> — Built with passion by Serini.<br><br>
+  <i>"In God we trust, all others must bring data."</i> — W. Edwards Deming<br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&fontSize=18&fontAlignY=40" />
 </p>
